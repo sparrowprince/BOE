@@ -4,3 +4,17 @@
 *.jar
 *.war
 *.ear
+
+# cache files #
+*~
+
+# build folder #
+bin
+
+# sound files with unknown legal status #
+sfx/orig
+sfx/damage3.wav
+sfx/die.wav
+sfx/music.wav
+sfx/music2.wav
+sfx/quaddamage.wav
